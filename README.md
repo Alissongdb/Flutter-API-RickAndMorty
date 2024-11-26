@@ -1,16 +1,26 @@
-# flutter_api_rickandmorty
+# Flutter API
 
-A new Flutter project.
+API publica de Rick And Morty
 
-## Getting Started
+package: http
 
-This project is a starting point for a Flutter application.
+Splash View:
+git remote add origin https://github.com/Alissongdb/Flutter-API-RickAndMorty.git
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Home:
+![image](https://github.com/user-attachments/assets/c3a3ed4e-955e-4653-ad31-5e2e27ff6abe)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Personagens:
+![image](https://github.com/user-attachments/assets/8c7f171c-0de3-4ef5-b227-5d01db919a18)
+
+Localizacao:
+![image](https://github.com/user-attachments/assets/493b9553-e04d-464c-a1ca-9413313fb88f)
+
+Episodios:
+![image](https://github.com/user-attachments/assets/5fd2cbfa-b015-41b9-8c17-c0c0c9328202)
+
+
+
+
+
