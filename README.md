@@ -5,8 +5,7 @@ API publica de Rick And Morty
 package: http
 
 Splash View:
-git remote add origin https://github.com/Alissongdb/Flutter-API-RickAndMorty.git
-
+![image](https://github.com/user-attachments/assets/b18b6f22-0475-43c7-aed7-44cb1e25e299)
 
 Home:
 ![image](https://github.com/user-attachments/assets/c3a3ed4e-955e-4653-ad31-5e2e27ff6abe)
